@@ -1,0 +1,13 @@
+var:
+  last_build_time: 1675403686
+  option:
+    ascii_punct: false
+    full_shape: false
+    simplification: false
+  previously_selected_schema: myliu
+  schema_access_time:
+    bopomofo: 1675329174
+    bopomofo_express: 1675329221
+    bopomofo_tw: 1675329226
+    luna_pinyin: 1675343586
+    myliu: 1675343588
