@@ -2,11 +2,9 @@ customization:
   distribution_code_name: ""
   distribution_version: ""
   generator: "Rime::SwitcherSettings"
-  modified_time: "Thu Feb  2 22:18:05 2023"
+  modified_time: "Sun Jul  3 15:01:35 2022"
   rime_version: 1.7.3
 patch:
-  "ascii_composer/switch_key/Shift_L": noop
-  "ascii_composer/switch_key/Shift_R": noop
   schema_list:
     - {schema: luna_pinyin}
     - {schema: myliu}
